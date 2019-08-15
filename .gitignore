@@ -1,0 +1,7 @@
+/node_modules
+/images/exercisePhoto
+/images/temp_exercisePhoto
+/images/temp_userPhoto
+/images/userPhoto
+/sessions
+.env
